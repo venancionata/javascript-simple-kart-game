@@ -1,3 +1,3 @@
-# javascript_simple_kart_game
+# javascript-simple-kart-game
 
 A simple game project in Java Script.
